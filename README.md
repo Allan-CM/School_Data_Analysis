@@ -31,7 +31,6 @@ student_df = pd.read_csv(student_data_to_load)
 The student and school DataFrames are merged using a left join on the school name to create a complete dataset:
 
 ```python```
-## Copy code
 school_data_complete = pd.merge(student_df, school_df, how="left", on=["school_name", "school_name"])
 
 ## District Summary Metrics
