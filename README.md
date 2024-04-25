@@ -77,6 +77,6 @@ The analysis results are displayed as DataFrames and can be further analyzed or 
 3. Resources folder --> Contains the csv file from which the data was acquired
 
 ## Credits: 
-https://www.geeksforgeeks.org/jquery-first-method/ --? thaugh me what first() does and how I can use it to determine the first element of each element
-https://stackoverflow.com/questions/43096522/remove-dollar-sign-from-entire-python-pandas-dataframe --> help me determine the code to remove the dollar sign from my df to convert the object into a float  
+GeeksforGeeks: Provided insights into the first() method and its usage for selecting the first element of each element set.
+Stack Overflow: Assisted in devising a method to remove the dollar sign from a DataFrame column, facilitating the conversion of the column from an object to a float data type.
 
