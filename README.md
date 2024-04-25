@@ -1,4 +1,5 @@
-#School District Analysis
+# School District Analysis
+
 ##Description
 Thisd project conducts an analysis on school and student performance within a school district. It combines datasets of school and student information to provide key metrics, such as overall passing rates, average scores, and performance based on school spending, size, and type.
 
